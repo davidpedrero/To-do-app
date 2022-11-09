@@ -7,7 +7,7 @@ POST http://localhost:3001/todo/new
 Content-Type: application/json
 
 {
-    "text": "Order pizza"
+    "text": "Roast Gaby's outfit"
 }
 
 ###
