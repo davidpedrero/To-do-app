@@ -10,12 +10,11 @@ Content-Type: application/json
     "text": "Order pizza"
 }
 
+###
+
+DELETE http://localhost:3001/todo/delete/636b34227510cd93ada8c7b9
+
 
 ###
 
-DELETE http://localhost:3001/todo/delete/636ad071c418fdf7180e91f9
-
-
-###
-
-PUT http://localhost:3001/todo/complete/636ad070c418fdf7180e91f7
+PUT http://localhost:3001/todo/complete/636ad06ec418fdf7180e91f5
